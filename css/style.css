@@ -1,0 +1,55 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+    background-color: navajowhite;
+    color: firebrick;
+    font-size: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 20px;
+}
+
+#intro h1 {
+    color: royalblue;
+}
+
+
+.title {
+    font-size: 30px;
+}
+
+.description {
+    font-size: 18px;
+    color: darkred;
+}
+
+.normal {
+    font-size: 22px;
+    color: firebrick;
+}
+
+.media-box {
+    border: 2px solid salmon;
+    padding: 5px;
+}
+
+.contact-form {
+    background-color: rgb(220, 197, 151);
+    padding: 15px;
+    border: 1px solid wheat;
+}
+
+
+.footer-text {
+    background-color: darkcyan;
+    color: red;
+    text-align: center;
+    padding: 10px 0;
+    margin: 0;
+}
